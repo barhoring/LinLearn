@@ -1,2 +1,4 @@
 /out
 config.py
+__pycache__/
+config.pyc
